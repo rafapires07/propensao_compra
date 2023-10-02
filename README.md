@@ -1,7 +1,7 @@
 # Previsão de Cross-Sell - Seguros
 
 <div align="center">
-<img src="img/cross_sell.jpg" width="500px">
+<img src="img/cross_sell.jpg" width=600px">
 </div>
 </br>
 Projeto de ranqueamento de clientes interessados na aquisição de um seguro veicular.
@@ -87,11 +87,11 @@ Abaixo iremos detalhar 3 das hipóteses que trouxeram insights valiosos para o n
 Para validar completamente essa hipótese precisaríamos de mais amostras de clientes com carros mais velhos que 2 anos.
 
 <div align="center">
-<img src="img/h2.png" width="1000px">
+<img src="img/h2.png" width="600px">
 </div>
 
 <div align="center">
-<img src="img/h2_2.png" width="1000px">
+<img src="img/h2_2.png" width="600px">
 </div>
 
 ##### Hipótese 3: Clientes que tiveram o carro danificado no passado são mais propensos a comprar um seguro.
@@ -99,7 +99,7 @@ Para validar completamente essa hipótese precisaríamos de mais amostras de cli
 **VERDADEIRO:** 97.9% das pessoas que aceitam o seguro o carro já havia sido danificado anteriormente.
 
 <div align="center">
-<img src="img/h3.png" width="1000px">
+<img src="img/h3.png" width="600px">
 </div>
 
 ##### Hipótese 5: Pessoas que possuem um maior tempo como cliente, são mais propensos a adquirir um seguro veicular.
@@ -107,7 +107,7 @@ Para validar completamente essa hipótese precisaríamos de mais amostras de cli
 **FALSO:** Não há quaisquer relações observável entre o tempo como cliente e a proporção entre estar interessada no seguro ou não.
 
 <div align="center">
-<img src="img/h5.png" width="1000px">
+<img src="img/h5.png" width="600px">
 </div>
 
 #### 3.3.1.6 Modeling:
@@ -163,11 +163,11 @@ Desta forma seguiremos com esse modelo para produção.
 Abaixo as curvas de ganho e lift do nosso modelo durante este teste:
 
 <div align="center">
-<img src="img/gain_curve_final.png" width="1000px">
+<img src="img/gain_curve_final.png" width="600px">
 </div>
 
 <div align="center">
-<img src="img/lift_curve_final.png" width="1000px">
+<img src="img/lift_curve_final.png" width="600px">
 </div>
 
 #### 3.3.1.8 Evaluation:
@@ -185,7 +185,7 @@ Vamos assumir todos os clientes interessados no seguro veicular irão assinar o 
 - **_18 Mil aleatórios_**:
   
 <div align="center">
-<img src="img/random_sample.png" width="1000px">
+<img src="img/random_sample.png" width="600px">
 </div>
 
 Como podemos ver na imagem, por meio de uma amostra aleatória, dentro dos 18 mil selecionados tivemos apenas 2224 interessados no seguro veicular.
@@ -194,7 +194,7 @@ Sendo o ticket médio do seguro no valor aproximado de 30564 unidades monetária
 - **_18 Mil pessoas iniciais dos dados ranqueados através do algoritmo_**:
 
 <div align="center">
-<img src="img/ranking_sample.png" width="1000px">
+<img src="img/ranking_sample.png" width="600px">
 </div>
 
 Usando nosso modelo foi possível ligar para 6151 pessoas interessadas, o que nos daria um faturamento de 187.999.164 unidades monetárias.
