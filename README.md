@@ -215,7 +215,7 @@ Para hostear essas aplicações, foi utilizado o Render. Nessa cloud, a criaçã
 </div>
 </br>
 
-Acesso à planilha: [Google Sheets - Propensão de Compra]([https://docs.google.com/spreadsheets/d/1GM-Ul_8zbroP7pNapIoZuXfV3NJNghgihs9lYQiDqPI/edit#gid=0](https://docs.google.com/spreadsheets/d/1vAmiycjcPigZUitoMDt1PwXtmjjdQYSL_KBQnMNMTa0/edit?usp=sharing))
+Acesso à planilha: [Google Sheets - Propensão de Compra](https://docs.google.com/spreadsheets/d/1vAmiycjcPigZUitoMDt1PwXtmjjdQYSL_KBQnMNMTa0/edit?usp=sharing)
 
 # 4. Conclusões
 
